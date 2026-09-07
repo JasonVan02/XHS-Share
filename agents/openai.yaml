@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jason 小红书 AI 知识分享"
+  short_description: "简洁蓝紫风格的 AI 知识图文，含文案策划、逐图校对与顺序角标检查"
+  default_prompt: "用 $jason-xhs-ai-share 把我的 AI 主题做成小红书图片和发布文案，按默认视觉及页码规则生成、核对并打包。"
